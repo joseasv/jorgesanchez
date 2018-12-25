@@ -8,7 +8,7 @@ bundle exec jekyll build
 
 # Delete and move files
 Get-ChildItem -Path $dir -Exclude _site | ForEach-Object {Remove-Item $_ -Recurse }
-Copy-Item _site/*.* pwd
+Copy-Item _site/*.* $pwd
 Remove-Item _site -Recurse
 
 # Push to DEPLOY_BRANCH
