@@ -7,7 +7,8 @@ git checkout -b gh-pages
 bundle exec jekyll build
 
 # Delete and move files
-Remove-Item * -Recurse -Exclude _site 
+Get-ChildItem -Path $dir -Exclude _site |
+ForEach-Object {Remove-Item $_ -Recurse }
 Copy-Item _site/*.* pwd
 Remove-Item _site -Recurse
 
