@@ -19,7 +19,7 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/jorge-s%C3%A1nchez-397846b7/
+linkedin_username: jorge-s%C3%A1nchez-397846b7
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
@@ -66,6 +66,9 @@ collections:
   cv:
     output: true
     permalink: /cv/:path
+  notas:
+    output: true
+    permalink: /notas/:path
 
 news_limit: 5
 
