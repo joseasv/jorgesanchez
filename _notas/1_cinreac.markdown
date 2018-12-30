@@ -29,7 +29,7 @@ Se incluyen ejemplos resueltos.
     9. Comentarios generales
 4. Ejemplos
 
-### REFERENCIAS
+#### REFERENCIAS
 1. Boudart, M., Kinetics of Chemical Processes, Prentice Hall, New Jersey (1968), re-editado por Butterworth-Heinemann, Stoneham, Inglaterra (1991) 
 2. Hill, C., An Introduction to Chemical Engineering Kinetics & Reaction Design, John Wiley, New York (1977)
 3. Levenspiel, O., Ingeniería de las Reacciones Químicas, 2nda Edición, Editorial Reverté, México (1988). 

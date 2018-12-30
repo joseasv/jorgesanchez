@@ -25,12 +25,10 @@ permalink: /notas/
 </div>
 {% else %}
 
-<div class="project ">
-    <div class="thumbnail">
+<div class="link">
         <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-        {{ project.title }}    
+        {{ forloop.index }}.  {{ project.title }}    
         </a>
-    </div>
 </div>
 
 {% endif %}

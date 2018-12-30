@@ -31,27 +31,13 @@ Estas Notas de Clase se pueden adquirir separadamente o junto con los cursos onl
 
 ### Notas de clase disponibles
 
-  1. [**CINÉTICA DE LAS REACCIONES CATALÍTICAS HETEROGÉNEAS**](/jorgesanchez/notas/1_cinreac)
+{% for project in site.notas %}
 
-  2. **CINÉTICA QUÍMICA**
+<div class="link">
+        <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+        {{ forloop.index }}.  {{ project.title }}    
+        </a>
+</div>
 
-  3. **DESTILACIÓN**
-
-  4. **TERMODINÁMICA PARA INGENIEROS QUÍMICOS (Equilibrio de fases)**
-
-  5. **PROCESOS DE SEPARACIÓN**
-
-  6. **PROCESOS PETROQUÍMICOS**
-
-  7. **REFINACIÓN DE PETRÓLEO**
-
-  8. **ESCALAMIENTO DE PROCESOS QUÍMICOS**
-
-  9. **FENÓMENOS DE SUPERFICIES**
-
-  10. **LIMITACIONES DIFUSIONALES DE NASA Y CALOR EN REACCIONES CTALÍTICAS HETERPGÉNEAS**
-
-  11. **OPERACIONES UNITARIAS III (Transferencia de masa y calor)**
-
-  12. **INTRODUCCIÓN AL SISTEMA INTERNACIONAL (SI) DE UNIDADES (A. Arteaga, E. Choren y J. Sánchez)**
+{% endfor %}
 
