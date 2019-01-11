@@ -68,3 +68,6 @@ Textos de referencias
 - Petroleum Refiner
 - Chemical Engineering Progress
 - Industrial and Engineering Chemical Research
+
+### Precio
+Notas de clases: 25$ 

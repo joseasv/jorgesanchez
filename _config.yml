@@ -23,7 +23,7 @@ linkedin_username: jorge-s%C3%A1nchez-397846b7
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Cualquier pregunta por favor realizarla por el correo electrónico.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -60,12 +60,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  cv:
-    output: true
-    permalink: /cv/:path
   notas:
     output: true
     permalink: /notas/:path

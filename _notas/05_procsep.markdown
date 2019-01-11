@@ -226,3 +226,7 @@ Se presenta una recopilación de 40 problemas resueltos de diferentes procesos d
 - PROBLEMA No. 39  Extracción LL Columnas empacadas
 - PROBLEMA No. 40  Destilación Columna empacada
   
+### Precio
+Notas de clases + Problemario: 30$
+Notas de clases: 20$ 
+Problemario: 15$

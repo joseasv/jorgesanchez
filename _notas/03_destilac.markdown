@@ -87,5 +87,10 @@ Se incluyen los siguientes problemas resueltos de destilación de sistemas binar
 
 1. King, J.C., "Separation Processes", Second Edition, Mc Graw-Hill Book Co.., New York, 1980.
 
+### Precio
+Notas de clases + Problemario: 25$
+Notas de clases: 20$
+Problemario: 10$
+
 
 

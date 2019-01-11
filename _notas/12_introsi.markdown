@@ -36,3 +36,6 @@ CONTENIDO
 10. Sistema Internacional de Unidades SI, Servicio Nacional de Metrología de Venezuela.
 11. Sistema Internacional de Unidades SI. Reglas de uso, Servicio Nacional de Metrología de Venezuela.
 
+### Precio
+Notas de clases: 20$ 
+

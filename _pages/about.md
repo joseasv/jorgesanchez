@@ -10,7 +10,8 @@ profile:
   address: >
     <p>Universidad del Zulia</p>
     <p>Escuela de Ingeniería Química</p>
-    <p>INSUC</p>
+    <p>Instituto de Superficies</p>
+    <p>y Catálisis (INSUC)</p>
     <p>Zulia, Maracaibo</p>
 
 news: true
@@ -24,10 +25,11 @@ En esta página encontrará información de interés para estudiantes y profesor
 Los cursos incluyen las áreas de: cinética química y cinética de reacciones catalíticas heterogéneas, termodinámica del equilibrio de fases, procesos de separación (con enfásis en destilación), escalamiento de proceso químicos, introducción a los fenómenos de superficies, procesos petroquímicos, refinación de petróleo, etc.
 
 ### Disponibilidad
+ - Dictado de cursos online
  - Asesorías online a convenir
  - Adquisición de las Notas de Clase, en las cuales presento de manera detallada por tema los contenido programáticos de cada curso, e incluyen problemas resueltos en detalle de cada tema con sus referencias bibliográficas.
 
-Estas Notas de Clase se pueden adquirir separadamente o junto con los cursos online, previa solicitud al correo jlsanchez@luz.edu.ve.
+Estas Notas de Clase se pueden adquirir separadamente o junto con los cursos online, previa solicitud al correo jlsanchez@fing.luz.edu.ve o joseasv@outlook.com.
 
 ### Notas de clase disponibles
 

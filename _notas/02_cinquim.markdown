@@ -10,7 +10,8 @@ Se incluyen ejemplos resueltos.
  
 
 ### CONTENIDO
-- **Tema No. 1 Introducción a la cinética química**
+
+- Tema No. 1 Introducción a la cinética química
 
 Introducción. Regularidades generales de la desintegración y formación de moléculas. Clasificación de las reacciones. Conceptos básicos de estequiometría. Velocidad de reacción. Propiedades generales de la función cinética para una reacción sencilla. Principio de reversibilidad microscópica. Principio de independencia de las reacciones. 
 
@@ -66,4 +67,8 @@ Se desarrollan las expresiones integradas de cinéticas de reacciones irreversib
 REFERENCIA 
 1. Hill, Ch., An introduction to Chemical Engineering Kinetics & Reaction Design, John Wiley, New York (1977).
 
+### Precio 
+Nota de clases + Problemario: 25$
+Notas de clases: 20$
+Problemario: 10$
 

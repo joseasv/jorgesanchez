@@ -62,4 +62,7 @@ Adicionalmente las siguientes series de artículos:
 - Chemical Engineering News
 - Industrial and Engineering Chemistry
 - American Institute of Chemical Engineering
-- Chemical Week 
+- Chemical Week
+
+### Precio
+Notas de clases: 25$

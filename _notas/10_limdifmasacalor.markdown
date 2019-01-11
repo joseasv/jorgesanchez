@@ -41,3 +41,6 @@ Se incluyen problemas resueltos.
 7. Bird, R. B., Stewart, W. E. y Lightfoot, E. N., Transport Phenomena, 2a  Edición, John Wiley & Sons, (2001)
 8. Treybal, R. E., Mass-Transfer Operations, Mc Graw-Hill Book Co, New York, (1980)
 9. Rajadhyaksha, R. A., Vasudeva, K. y Doraiswamy, L. K., Effectiveness Factors in Langmuir-Hinshelwood and General Order Kinetics, J. Catal., 41,61-71 (1976) 
+
+### Precio
+Notas de clases: 10$ 

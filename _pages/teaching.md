@@ -1,10 +1,23 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /docencia/
+title: Docencia
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Pregado
 
-Organize your courses by years, topics, or universities, however you like!
+- Balances de materiales y energía
+- Fenómenos de transporte (masa)
+- Operaciones unitarias III
+- Tecnología petroquímica
+- Cinética química
+- Sistema internacional de unidades
+
+### Posgrado
+
+- Termodinámica para ingenieros químicos
+- Procesos de separación
+- Refinación de petróleo
+- Procesos petroquímicos
+- Escalamiento de procesos químicos
+- Cinética de reacciones catalíticas heterogéneas

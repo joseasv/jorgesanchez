@@ -66,3 +66,8 @@ Se incluyen 15 problemas resueltos de las siguientes operaciones unitarias:
 - Intercambio iónico
 - Secado
 - Fluidización
+
+### Precio
+Notas de clases + Problemario: 25$
+Notas de clases: 20$ 
+Problemario: 10$

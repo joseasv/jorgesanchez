@@ -16,17 +16,17 @@ Se incluyen ejemplos resueltos.
     3. Cantidades relacionadas con la velocidad de reacción 
 3. Expresiones cinéticas en reacciones catalíticas heterogéneas
     1. Ley de potencia (ley de acción de masa)
-        1. Teoría de colisión 
-        2.Teoría del estado de transición 
-    2. Secuencia de etapas abiertas y cíclicas
-    3. Etapas elementales	
-    4. Tratamiento general de los mecanismos de reacción
-    5. Expresiones cinéticas de Langmuir-Hinshelwood ó Hougen-Watson (LHHW)
+    2. Teoría de colisión 
+    3. Teoría del estado de transición 
+    4. Secuencia de etapas abiertas y cíclicas
+    5. Etapas elementales	
+    6. Tratamiento general de los mecanismos de reacción
+    7. Expresiones cinéticas de Langmuir-Hinshelwood ó Hougen-Watson (LHHW)
         1. Isoterma de adsorción de Langmuir
-    6. Expresiones cinéticas de Rideal 
-    7. Usos y limitaciones de las expresiones cinéticasicos 
-    8. Ambigüedad de las expresiones cinéticas
-    9. Comentarios generales
+    8. Expresiones cinéticas de Rideal 
+    9. Usos y limitaciones de las expresiones cinéticasicos 
+    10. Ambigüedad de las expresiones cinéticas
+    11. Comentarios generales
 4. Ejemplos
 
 #### REFERENCIAS
@@ -43,3 +43,6 @@ de Ciencias, Universidad Central de Venezuela, Talleres de SADPRO, (1993).
 8. Absil, R., Butt, J., Dranoff, J. On the estimation of catalytic rate equation 
 parameters, J. Catal., 87, 530-535, (1984).
 9.  Perry, R. H., Green, D. W. y Maloney, J. O., Perry’s Chemical Engineers’ Handbook, The McGraw-Hill Company (1999) 
+
+### Precio 
+Notas de clases: 15$

@@ -37,3 +37,6 @@ Se incluye una descripción detallada del Sistema Internacional (SI) de Unidades
 4. Pharmaceutical Process Scale-Up, Editor: M. Levin, Marcel Dekker, Inc., New York, 2002
 5. Cocker., A. K., Modeling of Chemical Kinetics and Reactor Design, Gulf Professional Publishing, Boston, 2001 
 6. Bird, R. B., Stewart, W. E. y Lightfoot, E.N., “Fenómenos de Transporte”, Ed. Reverté S.A., Barcelona, 1980(versión en inglés: “Transport Phenomena”, Ed. John Wiley & Sons, New York, 2007.
+
+### Precio
+Notas de clases: 20$ 

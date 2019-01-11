@@ -26,3 +26,6 @@ Sistemas de un componente. Efecto de la temperatura en la tensión superficial. 
 
 ### PROBLEMARIO de INTRODUCCIÓN A FENÓMENOS DE SUPERFICIES
 Se presentan ejemplos resueltos de termodinámica estadística y de termodinámica de superficie.
+
+### Precio
+Notas de clases: 10$ 

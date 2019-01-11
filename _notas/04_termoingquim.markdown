@@ -131,3 +131,8 @@ Texto guía
 12. Edmister, W. C., Applied Hydrocarbon Thermodynamics, Volumen 1, 2nda Edición, Gulf Publishing Company, Houston, 1984. 
 13. Engineering Data Book, Gas Processors Suppliers Association, (2004) 
 
+### Precio
+Notas de clases + Problemario: 30$
+Notas de clases: 20$ 
+Problemario: 15$
+
