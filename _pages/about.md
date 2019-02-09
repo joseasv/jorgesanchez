@@ -31,6 +31,8 @@ Los cursos incluyen las áreas de: cinética química y cinética de reacciones 
 
 Estas Notas de Clase se pueden adquirir separadamente o junto con los cursos online, previa solicitud al correo jlsanchez@fing.luz.edu.ve o joseasv@outlook.com.
 
+Forma de pago: Paypal
+
 ### Notas de clase disponibles
 
 {% for project in site.notas %}
