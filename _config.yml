@@ -30,8 +30,8 @@ google_analytics: UA-134234124-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Prof. Jorge Sánchez
+blog_description: Página que reune mis notas de clases, cursos y experiencia
 
 # Pagination
 paginate: 4
