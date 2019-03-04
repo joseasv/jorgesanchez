@@ -20,16 +20,22 @@ social: true
 
 ### Bienvenido a mi página web personal. 
 
-En esta página encontrará información de interés para estudiantes y profesores de Ingeniería Química, en la cual presento de manera organizada los contenidos programáticos y servicios educativos de los cursos que dicté como profesor-investigador. Dichos cursos fueron dictados por más de 40 años en la Escuela de Ingeniería Química y en el Instituto de Superficies y Catálisis de la Facultad de Ingeniería de la Universidad del Zulia. 
+[Curso de refinación disponible](/jorgesanchez/blog/2019/curso_refinacion/)
 
-Los cursos incluyen las áreas de: cinética química y cinética de reacciones catalíticas heterogéneas, termodinámica del equilibrio de fases, procesos de separación (con enfásis en destilación), escalamiento de proceso químicos, introducción a los fenómenos de superficies, procesos petroquímicos, refinación de petróleo, etc.
+En esta página encontrarán información  de interés para estudiantes y profesores de Ingeniería Química, en la cual presento de manera organizada mis Notas de Clase y servicios educativos (asesorías, cursos online, etc.) de los cursos que dicté como profeso-investigador por más de 40 años en la Escuela de Ingeniería Química y en el Instituto de Superficies y Catálisis de la Facultad de Ingeniería de la Universidad del Zulia (Maracaibo-Venezuela). 
+
+Las Notas de Clase incluyen los contenidos programáticos de los distintos cursos que dicté en las áreas de: cinética química y cinética de reacciones catalíticas heterogéneas, balances de materiales y energía, termodinámica del equilibrio de fases, procesos de separación y operaciones unitarias (con énfasis en destilación), escalamiento de proceso químicos, introducción a los fenómenos de superficies, procesos petroquímicos, refinación de petróleo, entre otras asignaturas.
+
+En las Notas de Clase se presentan los aspectos teóricos de cada curso, con la información de las referencias necesarias (arícalos, libros de texto, etc.), con resolución detallada paso a paso de numerosos problemas en EXCEL, que pueden ser utilizadas el estudio autodidacta de los temas tratados.
 
 ### Disponibilidad
- - Dictado de cursos online
- - Asesorías online a convenir
- - Adquisición de las Notas de Clase, en las cuales presento de manera detallada por tema los contenido programáticos de cada curso, e incluyen problemas resueltos en detalle de cada tema con sus referencias bibliográficas.
+- Asesorías online a convenir
+- Notas de Clase, en las cuales presento de manera detallada por tema los contenido programáticos de cada curso, e incluyen problemas resueltos en detalle de cada tema con sus referencias bibliográficas.
 
-Estas Notas de Clase se pueden adquirir separadamente o junto con los cursos online, previa solicitud al correo jlsanchez@fing.luz.edu.ve o joseasv@outlook.com.
+Estas Notas de Clase se pueden adquirir separadamente o con los cursos online, previa solicitud al correo jlsanchez@fing.luz.edu.ve y cancelarse a través de Paypal.
+
+- Cursos online anunciados previamente
+
 
 Forma de pago: Paypal
 
