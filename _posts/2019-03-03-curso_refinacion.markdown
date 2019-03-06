@@ -6,6 +6,7 @@ title:  Curso online de refinación de petróleo
 ### PRÓXIMO CURSO: REFINACIÓN DE PETRÓLEO
 ### INSCRIPCIONES ABIERTAS
 
+Curso avalado por el [Instituto de Superficies y Catálisis (INSUC)](http://www.fing.luz.edu.ve/index.php?option=com_content&task=category&sectionid=4&id=25&Itemid=165)
 
 Inicio: Lunes 12 de Marzo de 2019.
 

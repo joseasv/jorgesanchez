@@ -20,7 +20,7 @@ social: true
 
 ### Bienvenido a mi página web personal. 
 
-[Curso de refinación disponible](/jorgesanchez/blog/2019/curso_refinacion/)
+[Curso de refinación DISPONIBLE](/jorgesanchez/blog/2019/curso_refinacion/)
 
 En esta página encontrarán información  de interés para estudiantes y profesores de Ingeniería Química, en la cual presento de manera organizada mis Notas de Clase y servicios educativos (asesorías, cursos online, etc.) de los cursos que dicté como profeso-investigador por más de 40 años en la Escuela de Ingeniería Química y en el Instituto de Superficies y Catálisis de la Facultad de Ingeniería de la Universidad del Zulia (Maracaibo-Venezuela). 
 
